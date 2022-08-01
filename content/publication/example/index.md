@@ -19,7 +19,7 @@ author_notes:
   - First Author
   - Corresponding Author
   - Corresponding Author
-publication: Science of The Total Environment
+publication: Science of The Total Environment,Volume 842, 2022, 156950, ISSN 0048-9697,
 summary: ""
 url_dataset: ""
 url_project: ""
