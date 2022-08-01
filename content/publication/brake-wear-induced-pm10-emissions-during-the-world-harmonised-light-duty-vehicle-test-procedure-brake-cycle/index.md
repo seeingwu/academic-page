@@ -3,8 +3,23 @@ title: Brake wear induced PM10 emissions during the world harmonised light-duty
   vehicle test procedure-brake cycle
 publication_types:
   - "2"
+authors:
+  - Ye Liu
+  - Sijin Wu
+  - Haibo Chen
+  - Matteo Federici
+  - Guido Perricone
+  - Ying Li
+  - Gang Lv
+  - Said Munir
+  - Zhiwen Luo
+  - Baohua Mao
+  - ""
+author_notes:
+  - These authors contributed equally to this work
+  - These authors contributed equally to this work
 doi: 10.1016/j.jclepro.2022.132278
-publication: Journal of Cleaner Production 361(11–12):132278
+publication: Journal of Cleaner Production,Volume 361, 2022, 132278, ISSN 0959-6526,
 draft: false
 featured: false
 image:
