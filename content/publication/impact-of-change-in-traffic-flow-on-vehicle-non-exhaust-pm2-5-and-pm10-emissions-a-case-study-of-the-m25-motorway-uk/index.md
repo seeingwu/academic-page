@@ -12,6 +12,9 @@ authors:
   - Phillip Proctor
   - Gavin Rowley
   - ""
+author_notes:
+  - First Author
+  - Corresponding Author
 doi: 10.1016/j.chemosphere.2022.135069
 publication: Chemosphere, Volume 303, Part 1, 2022, 135069, ISSN 0045-6535,
 draft: false
