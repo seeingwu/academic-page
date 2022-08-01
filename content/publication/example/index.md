@@ -16,6 +16,8 @@ authors:
   - Tiezhu Li
   - ""
 author_notes:
+  - First Author
+  - Corresponding Author
   - Corresponding Author
 publication: Science of The Total Environment
 summary: ""
@@ -37,7 +39,7 @@ image:
   preview_only: false
 date: 2022-08-01T13:12:58.039Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
