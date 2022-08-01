@@ -16,8 +16,8 @@ authors:
   - Baohua Mao
   - ""
 author_notes:
-  - These authors contributed equally to this work
-  - These authors contributed equally to this work
+  - First Author
+  - First Author
 doi: 10.1016/j.jclepro.2022.132278
 publication: Journal of Cleaner Production,Volume 361, 2022, 132278, ISSN 0959-6526,
 draft: false
