@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ''
     date_start: '2020-07-12'
     description: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Shenzhen Science and Technology Special Project of the Epidemic 
     organization_url: 
-    title: ''
+    title: 'The Srategy investigation in Shenzhen for Covid-19 variant:Omicron BA.2'
     url: ''
 
 design:
