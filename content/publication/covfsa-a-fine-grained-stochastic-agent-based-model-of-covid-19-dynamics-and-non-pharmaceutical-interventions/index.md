@@ -7,6 +7,9 @@ authors:
   - Sijin Wu
   - Zhejun Huang
   - Susan Grant-Muller and Lili Yang
+author_notes:
+  - First Author
+  - First Author
 draft: false
 featured: false
 image:
