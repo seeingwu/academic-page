@@ -43,7 +43,6 @@ experience:
     date_start: '2020-01-01'
     date_end: '2020-11-01'
     description: Assitant tutors for graduated-level modules:|2-
-        include:
         * Principle transport modelling
         * Traffic network modelling.
       
