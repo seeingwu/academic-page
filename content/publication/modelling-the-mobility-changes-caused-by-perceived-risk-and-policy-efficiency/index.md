@@ -1,7 +1,7 @@
 ---
 title: Modelling the Mobility Changes Caused by Perceived Risk and Policy Efficiency
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Sijin Wu
   - Susan Grant-Muller
