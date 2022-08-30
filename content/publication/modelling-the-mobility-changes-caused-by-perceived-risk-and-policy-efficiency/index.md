@@ -8,13 +8,13 @@ authors:
   - Lili Yang
 author_notes:
   - First Author
-doi: 10.20944/preprints202203.0221.v1
-publication: Preprints 2022, 2022030221
+doi: 10.3390/ijgi11080453
+publication: ISPRS International Journal of Geo-Information. 11(8), p.453.
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-08-01T13:40:38.443Z
+date: 2022-08-21T13:40:38.443Z 
 ---
