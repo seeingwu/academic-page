@@ -6,7 +6,7 @@ title: Sijin Wu
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD student year  3
 
 # Organizations/Affiliations to show in About widget
 organizations:
